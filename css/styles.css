@@ -35,6 +35,7 @@
 
 body {
     font-family: 'Acid Grotesk';
+    font-variant-emoji: text;
     color: var(--black);
     background-color: var(--white);
 }
