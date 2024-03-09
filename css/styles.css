@@ -34,7 +34,7 @@
 }
 
 body {
-    font-family: 'Acid Grotesk';
+    font-family: 'Acid Grotesk', Icons;
     color: var(--black);
     background-color: var(--white);
 }
