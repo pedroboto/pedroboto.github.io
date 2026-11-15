@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    cursor: url('../img/cursor.svg') 10 10, auto;
+    cursor: url('../img/cursor.svg') 15 15, auto;
 }
 
 :root {
